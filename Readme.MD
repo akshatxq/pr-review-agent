@@ -4,7 +4,9 @@ An autonomous multi-agent system that reviews GitHub Pull Requests automatically
 
 ## Demo
 
-![Dashboard](https://placehold.co/800x400?text=Dashboard+Screenshot)
+![Dashboard](assets/dashboard.png)
+
+![Detail View](assets/detail.png)
 
 ## How It Works
 
@@ -117,7 +119,7 @@ pr-review-agent/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/pr-review-agent.git
+git clone https://github.com/akshatxq/pr-review-agent.git
 cd pr-review-agent
 ```
 
